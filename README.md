@@ -10,5 +10,5 @@ Start the script:
 ```
 pip install selenium
 pip install termcolor
-pyhton scrap.py
+python scrap.py
 ```
