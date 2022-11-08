@@ -1,13 +1,17 @@
 import time
 import os
 import subprocess
-#aaaaab
+
+
 def install(name):
     subprocess.call(['pip', 'install', name])
+
+
 try:
     import termcolor
 except ImportError as e:
     install("termcolor")
+
 
 try:
     from selenium import webdriver
