@@ -35,7 +35,7 @@ os.system('color')
 
 
 APP_VERSION="1.2"
-ser = Service("chromedriver")#Change the driver extension for macOS here. Go to https://chromedriver.chromium.org/downloads for the driver you need (check your Chrome browser version or update it to the latest one). The driver used here is for 106.0.5249.119 Chrome version on Windows, but it works for 107.0.5304.63 as well
+ser = Service("./chromedriver")#Change the driver extension for macOS here. Go to https://chromedriver.chromium.org/downloads for the driver you need (check your Chrome browser version or update it to the latest one). The driver used here is for 106.0.5249.119 Chrome version on Windows, but it works for 107.0.5304.63 as well
 options = Options()
 options.add_experimental_option("detach", True)
 options.add_experimental_option('excludeSwitches', ['enable-logging'])
