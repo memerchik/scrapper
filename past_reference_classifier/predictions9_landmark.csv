@@ -1,0 +1,416 @@
+text,label,pred_label,prob_past
+A detailed render of a self-assembling modular robot.,0,0,0.0030994301196187735
+A serene landscape where stars form intricate patterns on the ground.,0,0,0.0030627239029854536
+"A digital painting of a griffin made of wind and clouds, soaring.",0,0,0.005835435353219509
+A futuristic gym with holographic trainers and zero-gravity exercise zones.,0,0,0.0017699735471978784
+A detailed portrait of a deep-sea explorer in an advanced suit.,0,0,0.015304960310459137
+An enchanted waterfall glowing with bioluminescent algae at night.,0,0,0.0032286501955240965
+"A sleek, electric vertical farm integrated into a skyscraper.",0,0,0.0020668613724410534
+A whimsical robot chef preparing intricate pastries with multiple arms.,0,0,0.0060783629305660725
+"A hyper-realistic alien jungle with colossal, glowing plants.",0,0,0.0026406203396618366
+A surreal landscape where reflections show different realities.,0,0,0.0028607978019863367
+A high-tech lunar base with transparent domes and automated vehicles.,0,0,0.0037157973274588585
+A detailed render of a personal drone delivering a small package.,0,0,0.004357714671641588
+A mesmerizing display of glowing energy flowing through crystalline structures.,0,0,0.004203203599900007
+"A colossal sentient river, its waters glowing with ancient magic.",0,1,0.9963722229003906
+"A city within a massive, hollowed-out iceberg, glowing blue light.",0,0,0.00408987607806921
+A playful abstract depiction of data streams and network connections.,0,0,0.003001975826919079
+A detailed render of a self-repairing drone.,0,0,0.007008017972111702
+A serene landscape where aurora borealis appears in daytime sky.,0,0,0.013230725191533566
+A digital painting of a mythical beast made of pure energy.,0,0,0.03151816502213478
+A futuristic classroom with interactive holographic lessons.,0,0,0.0016845993231981993
+"A detailed portrait of a cybernetic animal companion, loyal gaze.",0,0,0.005031766835600138
+"An enchanted cavern, glowing crystals, and mystical creatures.",0,0,0.01779325120151043
+"A sleek, transparent high-speed train, blurring through a vibrant landscape.",0,0,0.00216286932118237
+A whimsical robot street artist creating dynamic light graffiti.,0,0,0.002714921021834016
+"A hyper-realistic alien swamp, glowing flora, strange amphibians.",0,0,0.004213718697428703
+A surreal landscape where plants grow upside down from the sky.,0,0,0.009067959152162075
+"A high-tech underwater research lab, glowing observation windows.",0,0,0.00459204101935029
+A detailed render of a wearable augmented reality device.,0,0,0.0032971766777336597
+A mesmerizing display of glowing dust motes in a sunbeam.,0,0,0.005437536630779505
+"A colossal sentient desert, shifting dunes forming faces.",0,0,0.18794836103916168
+"A city built on a giant, floating disc in the sky, clouds below.",0,0,0.0033006928861141205
+A playful abstract composition of swirling smoke and light.,0,0,0.00339734205044806
+A detailed render of a self-replicating robotic factory.,0,0,0.004035028163343668
+A serene landscape where trees have leaves made of light.,0,0,0.0036315966863185167
+A digital painting of a mythical bird with iridescent feathers.,0,0,0.03009209595620632
+A futuristic hospital room with advanced diagnostic machinery.,0,0,0.001917668036185205
+"A detailed portrait of an android police officer, stoic expression.",0,0,0.006329593248665333
+"An enchanted forest at dusk, glowing mushrooms, soft mist.",0,0,0.03733779117465019
+"A sleek, electric submarine exploring deep-sea trenches.",0,0,0.003600004129111767
+"A whimsical robot musician playing a classical violin, concert hall.",0,0,0.008879954926669598
+"A hyper-realistic alien rainforest, giant glowing fungi.",0,0,0.0037709164898842573
+A surreal landscape where the sky is a mirror of the ground.,0,0,0.007258017547428608
+"A high-tech space colony interior, hydroponic gardens, artificial sky.",0,0,0.004225901328027248
+A detailed render of a transparent self-driving car.,0,0,0.0024563123006373644
+A mesmerizing display of bioluminescent plankton in ocean waves.,0,0,0.004746410995721817
+"A colossal sentient ocean, its waves forming giant faces.",0,0,0.01074907649308443
+"A city built into the side of a massive canyon, glowing windows.",0,0,0.008414982818067074
+A playful abstract depiction of sound visualized as ripples.,0,0,0.0034143489319831133
+A detailed render of a self-configuring modular spacecraft.,0,0,0.0030007113236933947
+A serene landscape where aurora borealis touches the ground.,0,0,0.009425482712686062
+A digital painting of a mystical creature made of water.,0,0,0.007671752944588661
+"A futuristic power plant, glowing core, clean energy.",0,0,0.002014261670410633
+"A detailed portrait of a synthetic human, hyper-realistic skin.",0,0,0.0029518213123083115
+"An enchanted garden, glowing flowers, floating lanterns.",0,0,0.009657223708927631
+"A sleek, electric sailboat on a pristine, calm lake.",0,0,0.006871800869703293
+A whimsical robot pet playing fetch with a glowing ball.,0,0,0.006219061091542244
+"A hyper-realistic alien tundra, glowing ice formations.",0,0,0.004731810186058283
+A surreal landscape where objects melt into liquid light.,0,0,0.004033274482935667
+"A high-tech research facility on an exoplanet, harsh winds.",0,0,0.00805366039276123
+A detailed render of a holographic projection of a human.,0,0,0.007388081401586533
+A mesmerizing display of glowing butterflies in a night forest.,0,0,0.007306702435016632
+"A colossal sentient volcano, magma glowing like eyes.",0,0,0.020406952127814293
+"A city built within a giant, transparent bubble underwater.",0,0,0.002476738067343831
+A playful abstract composition of swirling patterns and fractals.,0,0,0.0032198356930166483
+A detailed render of a self-healing robotic arm.,0,0,0.005444369278848171
+A serene landscape where waterfalls glow with internal light.,0,0,0.002785220742225647
+A digital painting of a mythical creature made of fire.,0,0,0.22945357859134674
+"A futuristic home interior, minimalist design, smart glass.",0,0,0.001749370596371591
+A detailed portrait of a neural network interface user.,0,0,0.003657166613265872
+"An enchanted moonlit glade, glowing flora, wisps of magic.",0,0,0.10372824966907501
+"A sleek, electric hoverbike racing through a futuristic city.",0,0,0.0015590451657772064
+A whimsical robot artist painting a starry night sky.,0,0,0.004029313568025827
+"A hyper-realistic alien cave system, glowing crystals, strange formations.",0,0,0.004307482857257128
+A surreal landscape where light bends and distorts reality.,0,0,0.004663623869419098
+"A high-tech drone port, numerous drones docking and launching.",0,0,0.01027014758437872
+A detailed render of a wearable display projecting information.,0,0,0.004181457217782736
+A mesmerizing display of glowing spores drifting through a forest.,0,0,0.007354837376624346
+"A colossal sentient forest, its trees whispering secrets.",0,0,0.028727468103170395
+"A city built on vast, ancient roots of a gigantic tree.",0,1,0.997860848903656
+A playful abstract depiction of virtual reality environments.,0,0,0.003039779607206583
+A detailed render of a self-building modular habitat.,0,0,0.0026618149131536484
+A serene landscape where constellations are visible in daylight.,0,0,0.0027667079120874405
+A digital painting of a creature made of smoke and shadows.,0,0,0.006956156343221664
+A futuristic farm with automated harvesting robots.,0,0,0.002072709845378995
+A detailed portrait of a genetically modified human with unique eyes.,0,0,0.006574425380676985
+"An enchanted lake, glowing water, floating lily pads.",0,0,0.007931343279778957
+"A sleek, electric monorail winding through a dense city.",0,0,0.0021423755679279566
+A whimsical robot chef preparing intricate sushi dishes.,0,0,0.006367633119225502
+A hyper-realistic alien coastline with glowing sand.,0,0,0.0028677640948444605
+A surreal landscape where colors shift and blend like oil on water.,0,0,0.004957865923643112
+"A high-tech medical research facility, glowing machinery.",0,0,0.005085896700620651
+"A detailed render of a transparent, flexible keyboard.",0,0,0.0029073115438222885
+A mesmerizing display of glowing particles forming patterns.,0,0,0.006377258338034153
+"A colossal sentient machine, glowing with internal power.",0,0,0.009524284861981869
+"A city built on a colossal moving platform, traversing deserts.",0,0,0.005911973770707846
+A playful abstract composition of sound waves and light.,0,0,0.003118994180113077
+A detailed render of a self-deploying emergency shelter.,0,0,0.004576808772981167
+A serene landscape where rainbows touch the ground.,0,0,0.0029111842159181833
+A digital painting of a fantastical creature made of mist.,0,0,0.007128121331334114
+A futuristic prison with holographic bars and surveillance drones.,0,0,0.0022926072124391794
+A detailed portrait of an android artist painting a portrait.,0,0,0.013567942194640636
+"An enchanted forest clearing, glowing plants, fairy lights.",0,0,0.014207824133336544
+"A sleek, electric jet ski gliding over bioluminescent water.",0,0,0.0022854001726955175
+A whimsical robot pet with expressive eyes and glowing fur.,0,0,0.004856447223573923
+"A hyper-realistic alien waterfall, glowing water, strange rocks.",0,0,0.0038222535513341427
+A surreal landscape where reflections show past moments.,0,0,0.003654550528153777
+"A high-tech communication hub, glowing antennas, data streams.",0,0,0.0032429597340524197
+"A detailed render of a personal flight suit, sleek design.",0,0,0.003159621264785528
+A mesmerizing display of glowing geometric patterns in the sky.,0,0,0.004904535133391619
+"A colossal sentient statue, its eyes glowing with ancient power.",0,1,0.9964459538459778
+A city built into massive cliffs overlooking a luminous sea.,0,0,0.008300338871777058
+A playful abstract depiction of digital code flowing.,0,0,0.003237637225538492
+A detailed render of a self-replicating drone swarm.,0,0,0.005622269585728645
+A serene landscape where fireflies form glowing rivers.,0,0,0.0033787069842219353
+A digital painting of a mythical creature made of crystals.,0,0,0.06626928597688675
+A futuristic school with interactive desks and AI teachers.,0,0,0.0016947250114753842
+A detailed portrait of a deep-sea humanoid creature.,0,0,0.017546361312270164
+"An enchanted garden at night, glowing flowers, magical mist.",0,0,0.012049845419824123
+"A sleek, electric sailboat with a transparent hull.",0,0,0.0022031955886632204
+A whimsical robot companion assisting an elderly person.,0,0,0.012893972918391228
+"A hyper-realistic alien volcano, glowing lava, strange flora.",0,0,0.004036331083625555
+A surreal landscape where shadows have independent life.,0,0,0.005991588346660137
+"A high-tech farming facility, vertical growth towers.",0,0,0.007421877700835466
+A detailed render of a transparent smart window display.,0,0,0.0022195721976459026
+A mesmerizing display of bioluminescent fungi on cave walls.,0,0,0.0203821063041687
+"A colossal sentient mountain, its face carved by wind.",0,1,0.8804956674575806
+"A city built into a giant, hollowed-out tree trunk.",0,0,0.01942254602909088
+A playful abstract composition of swirling smoke and light.,0,0,0.00339734205044806
+A detailed render of a self-driving personal pod.,0,0,0.003924074117094278
+A serene landscape where glow-worms illuminate paths.,0,0,0.003733413526788354
+A digital painting of a creature made of light and shadow.,0,0,0.005932078696787357
+"A futuristic airport, sleek planes, automatic gates.",0,0,0.001674923812970519
+A detailed portrait of a cybernetically enhanced athlete.,0,0,0.003540544770658016
+"An enchanted forest at sunrise, mist, glowing dew drops.",0,0,0.01919136755168438
+"A sleek, electric gondola floating on a luminous canal.",0,0,0.0025508482940495014
+A whimsical robot librarian sorting holographic books.,0,0,0.010623011738061905
+"A hyper-realistic alien desert, glowing sand, strange fauna.",0,0,0.0038434709422290325
+A surreal landscape where colors are reversed.,0,0,0.006794515997171402
+"A high-tech prison, laser grids, robotic guards.",0,0,0.005653489381074905
+A detailed render of a haptic feedback glove.,0,0,0.007397165521979332
+A mesmerizing display of glowing aurora in a forest.,0,0,0.006327902432531118
+"A colossal sentient desert, forming giant dunes.",0,0,0.3392198979854584
+"A city built on a giant, floating island in the sky.",0,0,0.0027929844800382853
+A playful abstract depiction of a data visualization.,0,0,0.002854341408237815
+A detailed render of a self-charging electric vehicle.,0,0,0.0025689147878438234
+A serene landscape where flowers glow at night.,0,0,0.0038915572222322226
+A digital painting of a mythical beast with glowing eyes.,0,0,0.04799119755625725
+"A futuristic power plant, glowing core, clean energy.",0,0,0.002014261670410633
+"A detailed portrait of a synthetic human, hyper-realistic skin.",0,0,0.0029518213123083115
+"An enchanted garden, glowing flowers, floating lanterns.",0,0,0.009657223708927631
+"A sleek, electric sailboat on a pristine, calm lake.",0,0,0.006871800869703293
+A whimsical robot pet playing fetch with a glowing ball.,0,0,0.006219061091542244
+"A hyper-realistic alien tundra, glowing ice formations.",0,0,0.004731810186058283
+A surreal landscape where objects melt into liquid light.,0,0,0.004033274482935667
+"A high-tech research facility on an exoplanet, harsh winds.",0,0,0.00805366039276123
+A detailed render of a holographic projection of a human.,0,0,0.007388081401586533
+A mesmerizing display of glowing butterflies in a night forest.,0,0,0.007306702435016632
+"A colossal sentient volcano, magma glowing like eyes.",0,0,0.020406952127814293
+"A city built within a giant, transparent bubble underwater.",0,0,0.002476738067343831
+A playful abstract composition of swirling patterns and fractals.,0,0,0.0032198356930166483
+A detailed render of a self-healing robotic arm.,0,0,0.005444369278848171
+A serene landscape where waterfalls glow with internal light.,0,0,0.002785220742225647
+A digital painting of a mythical creature made of fire.,0,0,0.22945357859134674
+"A futuristic home interior, minimalist design, smart glass.",0,0,0.001749370596371591
+A detailed portrait of a neural network interface user.,0,0,0.003657166613265872
+"An enchanted moonlit glade, glowing flora, wisps of magic.",0,0,0.10372824966907501
+"A sleek, electric hoverbike racing through a futuristic city.",0,0,0.0015590451657772064
+A whimsical robot artist painting a starry night sky.,0,0,0.004029313568025827
+"A hyper-realistic alien cave system, glowing crystals, strange formations.",0,0,0.004307482857257128
+A surreal landscape where light bends and distorts reality.,0,0,0.004663623869419098
+"A high-tech drone port, numerous drones docking and launching.",0,0,0.01027014758437872
+A detailed render of a wearable display projecting information.,0,0,0.004181457217782736
+A mesmerizing display of glowing spores drifting through a forest.,0,0,0.007354837376624346
+"A colossal sentient forest, its trees whispering secrets.",0,0,0.028727468103170395
+"A city built on vast, ancient roots of a gigantic tree.",0,1,0.997860848903656
+A playful abstract depiction of virtual reality environments.,0,0,0.003039779607206583
+A detailed render of a self-building modular habitat.,0,0,0.0026618149131536484
+A serene landscape where constellations are visible in daylight.,0,0,0.0027667079120874405
+A digital painting of a creature made of smoke and shadows.,0,0,0.006956156343221664
+A futuristic farm with automated harvesting robots.,0,0,0.002072709845378995
+A detailed portrait of a genetically modified human with unique eyes.,0,0,0.006574425380676985
+"An enchanted lake, glowing water, floating lily pads.",0,0,0.007931343279778957
+"A sleek, electric monorail winding through a dense city.",0,0,0.0021423755679279566
+A whimsical robot chef preparing intricate sushi dishes.,0,0,0.006367633119225502
+A hyper-realistic alien coastline with glowing sand.,0,0,0.0028677640948444605
+A surreal landscape where colors shift and blend like oil on water.,0,0,0.004957865923643112
+"A high-tech medical research facility, glowing machinery.",0,0,0.005085896700620651
+"A detailed render of a transparent, flexible keyboard.",0,0,0.0029073115438222885
+A mesmerizing display of glowing particles forming patterns.,0,0,0.006377258338034153
+"A colossal sentient machine, glowing with internal power.",0,0,0.009524284861981869
+"A city built on a colossal moving platform, traversing deserts.",0,0,0.005911973770707846
+A playful abstract composition of sound waves and light.,0,0,0.003118994180113077
+A detailed render of a self-deploying emergency shelter.,0,0,0.004576808772981167
+A serene landscape where rainbows touch the ground.,0,0,0.0029111842159181833
+A digital painting of a fantastical creature made of mist.,0,0,0.007128121331334114
+A futuristic prison with holographic bars and surveillance drones.,0,0,0.0022926072124391794
+A detailed portrait of an android artist painting a portrait.,0,0,0.013567942194640636
+"An enchanted forest clearing, glowing plants, fairy lights.",0,0,0.014207824133336544
+"A sleek, electric jet ski gliding over bioluminescent water.",0,0,0.0022854001726955175
+A whimsical robot pet with expressive eyes and glowing fur.,0,0,0.004856447223573923
+"A hyper-realistic alien waterfall, glowing water, strange rocks.",0,0,0.0038222535513341427
+A surreal landscape where reflections show past moments.,0,0,0.003654550528153777
+"A high-tech communication hub, glowing antennas, data streams.",0,0,0.0032429597340524197
+"A detailed render of a personal flight suit, sleek design.",0,0,0.003159621264785528
+A mesmerizing display of glowing geometric patterns in the sky.,0,0,0.004904535133391619
+"A colossal sentient statue, its eyes glowing with ancient power.",0,1,0.9964459538459778
+A city built into massive cliffs overlooking a luminous sea.,0,0,0.008300338871777058
+A playful abstract depiction of digital code flowing.,0,0,0.003237637225538492
+A detailed render of a self-replicating drone swarm.,0,0,0.005622269585728645
+A serene landscape where fireflies form glowing rivers.,0,0,0.0033787069842219353
+A digital painting of a mythical creature made of crystals.,0,0,0.06626928597688675
+A futuristic school with interactive desks and AI teachers.,0,0,0.0016947250114753842
+A detailed portrait of a deep-sea humanoid creature.,0,0,0.017546361312270164
+"An enchanted garden at night, glowing flowers, magical mist.",0,0,0.012049845419824123
+"A sleek, electric sailboat with a transparent hull.",0,0,0.0022031955886632204
+A whimsical robot companion assisting an elderly person.,0,0,0.012893972918391228
+"A hyper-realistic alien volcano, glowing lava, strange flora.",0,0,0.004036331083625555
+A surreal landscape where shadows have independent life.,0,0,0.005991588346660137
+"A high-tech farming facility, vertical growth towers.",0,0,0.007421877700835466
+A detailed render of a transparent smart window display.,0,0,0.0022195721976459026
+A mesmerizing display of bioluminescent fungi on cave walls.,0,0,0.0203821063041687
+"A colossal sentient mountain, its face carved by wind.",0,1,0.8804956674575806
+"A city built into a giant, hollowed-out tree trunk.",0,0,0.01942254602909088
+A playful abstract composition of swirling smoke and light.,0,0,0.00339734205044806
+A detailed render of a self-driving personal pod.,0,0,0.003924074117094278
+A serene landscape where glow-worms illuminate paths.,0,0,0.003733413526788354
+A digital painting of a creature made of light and shadow.,0,0,0.005932078696787357
+"A futuristic airport, sleek planes, automatic gates.",0,0,0.001674923812970519
+A detailed portrait of a cybernetically enhanced athlete.,0,0,0.003540544770658016
+"An enchanted forest at sunrise, mist, glowing dew drops.",0,0,0.01919136755168438
+"A sleek, electric gondola floating on a luminous canal.",0,0,0.0025508482940495014
+A whimsical robot librarian sorting holographic books.,0,0,0.010623011738061905
+"A hyper-realistic alien desert, glowing sand, strange fauna.",0,0,0.0038434709422290325
+A surreal landscape where colors are reversed.,0,0,0.006794515997171402
+"A high-tech prison, laser grids, robotic guards.",0,0,0.005653489381074905
+A detailed render of a haptic feedback glove.,0,0,0.007397165521979332
+A mesmerizing display of glowing aurora in a forest.,0,0,0.006327902432531118
+"A colossal sentient desert, forming giant dunes.",0,0,0.3392198979854584
+"A city built on a giant, floating island in the sky.",0,0,0.0027929844800382853
+A playful abstract depiction of a data visualization.,0,0,0.002854341408237815
+A detailed render of a self-charging electric vehicle.,0,0,0.0025689147878438234
+A serene landscape where flowers glow at night.,0,0,0.0038915572222322226
+A digital painting of a mythical beast with glowing eyes.,0,0,0.04799119755625725
+"A bustling space station cafeteria, astronauts eating.",0,0,0.29783234000205994
+A smart city with AI-controlled public services.,0,0,0.0020709275268018246
+"A transparent, flexible screen displaying dynamic advertising.",0,0,0.0028860385064035654
+A personal AI therapist providing mental health support.,0,0,0.005998640786856413
+"A bioluminescent underwater city, glowing architecture.",0,0,0.002038098406046629
+A digital art piece depicting a complex urban network.,0,0,0.0026758983731269836
+A cybernetic animal designed for deep-sea exploration.,0,0,0.0067860521376132965
+A clean energy solution using geothermal power from hot springs.,0,0,0.005834487732499838
+A virtual reality simulation of a fantastical landscape.,0,0,0.002593377372249961
+A genetically engineered plant that emits pleasant aromas.,0,0,0.014070267789065838
+"A space station interior, sleek, modern design.",0,0,0.003170201787725091
+A holographic interface for controlling drones.,0,0,0.005711016710847616
+A self-maintaining urban park with robotic gardeners.,0,0,0.0022998738568276167
+A drone delivery system for groceries.,0,0,0.011973762884736061
+A nanobot swarm cleaning up microplastic pollution in oceans.,0,0,0.004150175489485264
+A high-speed maglev train arriving at a futuristic station.,0,0,0.0032406651880592108
+An AI-powered legal assistant analyzing case documents.,0,0,0.010724750347435474
+A zero-emissions transportation network using electric vehicles.,0,0,0.00420485669746995
+A self-sufficient community living underground.,0,0,0.004405406769365072
+A global network of sensors monitoring seismic activity.,0,0,0.004228249192237854
+A personal flying vehicle used for emergency response.,0,0,0.015085871331393719
+A robotic guide dog for the visually impaired.,0,0,0.0119165712967515
+"A futuristic city built into a mountain, glowing entrances.",0,0,0.002444416517391801
+A sustainable urban development with integrated green spaces.,0,0,0.0037577904295176268
+A self-repairing infrastructure system for power lines.,0,0,0.005372484214603901
+A quantum computer simulating the behavior of dark matter.,0,0,0.007477020379155874
+A bioluminescent city glowing softly at night.,0,0,0.0024690197315067053
+A neural interface allowing direct brain control of robotic prosthetics.,0,0,0.00525208143517375
+A global shared knowledge base updated in real-time.,0,0,0.0031814840622246265
+A transparent smart screen displaying digital artwork.,0,0,0.0031218433286994696
+A genetically engineered plant that grows unique flowers.,0,0,0.007387587800621986
+A smart dust network monitoring agricultural fields.,0,0,0.004536925815045834
+A seamless augmented reality overlay for education.,0,0,0.0031313837971538305
+A 3D-printed space habitat on the moon.,0,0,0.004694197326898575
+A deep-sea submersible exploring a volcanic landscape.,0,0,0.013973820023238659
+A benevolent AI assisting in disaster relief efforts.,0,0,0.008664763532578945
+"A modular, reconfigurable drone for surveillance.",0,0,0.0076131075620651245
+A drone delivering mail in a suburban neighborhood.,0,0,0.05431675538420677
+A quantum secure communication for critical infrastructure.,0,0,0.0030485147144645452
+A self-sustaining floating community for climate refugees.,0,0,0.004282551351934671
+A holographic pet mimicking a real animal's behavior.,0,0,0.01829143427312374
+A smart fabric that monitors heart rate and blood pressure.,0,0,0.0057564894668757915
+A robot assistant helping in a surgical operation.,0,0,0.008108432404696941
+A hyper-efficient energy storage system using supercapacitors.,0,0,0.002263807225972414
+A self-filtering air purification device for homes.,0,0,0.011277547106146812
+A genetically modified pet that provides therapeutic benefits.,0,0,0.0189115721732378
+A global network of decentralized virtual organizations.,0,0,0.0029856935143470764
+"A quiet, emission-free electric motorcycle.",0,0,0.004963891115039587
+A neuro-prosthetic eye with enhanced night vision.,0,0,0.007732380647212267
+An intricately detailed cybernetic owl perched on a branch.,0,0,0.010123394429683685
+"A vibrant crystalline cavern, light refracting in spectacular ways.",0,0,0.004386620596051216
+"A city built on a vast, intricate network of roots and vines.",0,0,0.01691603846848011
+"A sleek, modular personal vehicle transforming for different terrains.",0,0,0.002684445818886161
+A futuristic urban park with self-cleaning air and interactive displays.,0,0,0.0014811553992331028
+"A sentient AI exploring the vastness of the internet, visualized as light trails.",0,0,0.003403636161237955
+"A bioluminescent deep-sea city, structures glowing softly.",0,0,0.00370866060256958
+"A robot artist creating dynamic, ever-changing sculptures of light.",0,0,0.002345811342820525
+"A transparent skyscraper, revealing inner workings and vertical farms.",0,0,0.002868184121325612
+A deep-space exploration probe discovering an entirely new element.,0,0,0.023937376216053963
+A playful abstract visualization of a complex algorithm.,0,0,0.0031993554439395666
+"A self-assembling bridge made of smart materials, repairing itself.",0,0,0.0037169980350881815
+"A panoramic view of a terraformed Mars, rivers flowing, green valleys.",0,0,0.03494444489479065
+A holographic interface for controlling a large drone fleet.,0,0,0.004819387570023537
+"A futuristic library where books are living, responsive holographic entities.",0,0,0.002112366957589984
+A detailed render of a genetically engineered creature for companionship.,0,0,0.009239353239536285
+"A floating city above a perpetually stormy ocean, glowing through clouds.",0,0,0.002875787438824773
+A personal orbital transport descending from a space station.,0,0,0.015084312297403812
+"A bioluminescent cloud forest at night, glowing mist and flora.",0,0,0.0029654442332684994
+"A city designed to be completely submerged, using transparent domes.",0,0,0.003926570527255535
+A surreal landscape where reflections show alternate timelines.,0,0,0.0036188613157719374
+A highly advanced medical facility performing gene editing.,0,0,0.006674053613096476
+A detailed render of a self-replicating 3D printer.,0,0,0.003605211153626442
+A mesmerizing display of choreographed starlink satellites forming patterns.,0,0,0.0044426266103982925
+"A colossal sentient glacier, slowly reshaping the landscape.",0,0,0.07525162398815155
+"A city built into a giant, living coral reef structure.",0,0,0.00810238253325224
+A playful abstract depiction of renewable energy flowing.,0,0,0.0029412293806672096
+"A detailed render of a modular, foldable smartphone.",0,0,0.002973174676299095
+A serene landscape where magnetic fields create glowing patterns.,0,0,0.002659992780536413
+A digital painting of a creature made of pure sound.,0,0,0.005092316307127476
+A futuristic art gallery with interactive holographic exhibits.,0,0,0.0017759113106876612
+"A detailed portrait of a deep-sea mining robot, powerful drills.",0,0,0.013453129678964615
+"An enchanted forest at twilight, glowing paths, mystical sounds.",0,0,0.01088058203458786
+"A sleek, electric underwater drone exploring shipwrecks.",0,0,0.0034721470437943935
+A whimsical robot cleaner with glowing brushes and suction.,0,0,0.003262398298829794
+"A hyper-realistic alien swamp, glowing mist, strange flora.",0,0,0.003936644643545151
+A surreal landscape where time flows at different rates.,0,0,0.0057710460387170315
+"A high-tech weather control station, manipulating storms.",0,0,0.012696010991930962
+"A detailed render of a personal mobility device, sleek and compact.",0,0,0.003027014434337616
+A mesmerizing display of glowing data flowing through fiber optics.,0,0,0.003334012348204851
+"A colossal sentient cloud formation, shifting and reshaping.",0,0,0.010190543718636036
+"A city built inside a giant, ancient geode, glowing crystals.",0,1,0.9968686699867249
+A playful abstract composition of light and shadow dancers.,0,0,0.003665272146463394
+A detailed render of a self-deploying communication satellite.,0,0,0.003308284794911742
+A serene landscape where crystal formations glow with light.,0,0,0.002579711377620697
+A digital painting of a mythical beast with wings of light.,0,0,0.0958123654127121
+A futuristic theme park with anti-gravity rides and holographic mascots.,0,0,0.0017340173944830894
+A detailed portrait of an augmented reality fashion model.,0,0,0.004739886149764061
+"An enchanted forest with a glowing, living waterfall.",0,0,0.005238794256001711
+"A sleek, electric flying platform for urban transport.",0,0,0.001968019874766469
+A whimsical robot bartender mixing glowing cocktails.,0,0,0.003971683327108622
+A hyper-realistic alien coastline with bioluminescent tide pools.,0,0,0.0023065381683409214
+A surreal landscape where reflections reveal hidden structures.,0,0,0.00397471385076642
+"A high-tech environmental monitoring system, global coverage.",0,0,0.005024886690080166
+A detailed render of a wearable health diagnostic device.,0,0,0.0038996210787445307
+A mesmerizing display of glowing constellations in a night sky.,0,0,0.005275990813970566
+"A colossal sentient river, its currents forming glowing patterns.",0,0,0.020110249519348145
+A city built on a vast network of transparent tubes and domes.,0,0,0.0033211191184818745
+A playful abstract depiction of a neural network learning.,0,0,0.0032463306561112404
+A detailed render of a self-repairing autonomous drone.,0,0,0.004473546519875526
+A serene landscape where plants communicate through light pulses.,0,0,0.0029660591389983892
+A digital painting of a fantastical creature made of starlight.,0,0,0.005454391241073608
+"A futuristic rescue vehicle, sleek, agile, equipped for any terrain.",0,0,0.0019159117946401238
+A detailed portrait of a humanoid robot expressing empathy.,0,0,0.004639678634703159
+"An enchanted meadow at dawn, glowing dew, shimmering light.",0,0,0.014192968606948853
+"A sleek, electric snowmobile traversing a pristine snowy landscape.",0,0,0.0035615749657154083
+A whimsical robot musician conducting a holographic orchestra.,0,0,0.005485917441546917
+"A hyper-realistic alien volcano erupting with glowing, crystalline lava.",0,0,0.005794620141386986
+"A surreal landscape where reality is a shifting, holographic projection.",0,0,0.003467378905043006
+"A high-tech quantum research lab, glowing chambers, complex machinery.",0,0,0.004041857551783323
+"A detailed render of a personal energy shield, shimmering.",0,0,0.004155279137194157
+A mesmerizing display of glowing data streams flowing through a city.,0,0,0.0029848702251911163
+"A colossal sentient mountain range, its peaks reaching into space.",0,0,0.02008463442325592
+"A city built into a giant, living glacier, illuminated ice tunnels.",0,0,0.026103897020220757
+A playful abstract composition of swirling colors and digital noise.,0,0,0.002931914059445262
+A detailed render of a self-constructing modular building.,0,0,0.0028294753283262253
+A serene landscape where the ground glows with soft light.,0,0,0.002978386590257287
+A digital painting of a mythical creature made of pure sound waves.,0,0,0.03306848928332329
+A futuristic laboratory where scientists study alien artifacts.,0,0,0.0056184991262853146
+"A detailed portrait of a cybernetic animal, glowing eyes.",0,0,0.00372203066945076
+"An enchanted forest, luminous flowers, whispering winds.",0,0,0.006802922580391169
+"A sleek, electric underwater city, transparent domes.",0,0,0.001992250792682171
+A whimsical robot artist sculpting with light.,0,0,0.004544232506304979
+"A hyper-realistic alien ocean, bizarre bioluminescent life.",0,0,0.002213326282799244
+A surreal landscape where shadows dance independently.,0,0,0.006943338084965944
+"A high-tech communication tower, glowing with energy.",0,0,0.003369927406311035
+A detailed render of a transparent personal computer.,0,0,0.0030092743691056967
+A mesmerizing display of glowing patterns on water's surface.,0,0,0.007507077418267727
+"A colossal sentient forest, its trees forming a living city.",0,0,0.05138391628861427
+"A city built on a vast, interconnected network of sky-bridges.",0,0,0.0024482381995767355
+A playful abstract depiction of a consciousness transfer.,0,0,0.0037864590995013714
+A detailed render of a self-maintaining urban garden.,0,0,0.0030543270986527205
+A serene landscape where plants glow in the dark.,0,0,0.0033959809225052595
+A digital painting of a creature made of pure light.,0,0,0.005071339663118124
+"A futuristic fashion show, models in glowing outfits.",0,0,0.0018940720474347472
+"A detailed portrait of a sentient AI, calm, intelligent eyes.",0,0,0.005096412729471922
+"An enchanted swamp, glowing mist, strange, luminous plants.",0,0,0.012628337368369102
+"A sleek, electric individual transport pod, futuristic design.",0,0,0.0018440070562064648
+A whimsical robot companion interacting with local wildlife.,0,0,0.005774959921836853
+"A hyper-realistic alien desert, shimmering heat haze, strange formations.",0,0,0.0032308087684214115
+A surreal landscape where time flows backward in puddles.,0,0,0.010400675237178802
+"A high-tech deep-sea mining operation, glowing machinery.",0,0,0.015794720500707626
+"A detailed render of a flexible, rollable display screen.",0,0,0.0029536166694015265
+A mesmerizing display of glowing energy flows in the air.,0,0,0.00414994265884161
+"A colossal sentient machine, its parts moving autonomously.",0,0,0.008762791752815247
+"A city built into a giant, hollowed-out volcano, glowing vents.",0,0,0.013214126229286194
+A playful abstract composition of digital fractals.,0,0,0.00308673526160419
+A detailed render of a self-replicating robotic arm.,0,0,0.004451413173228502
+A serene landscape where floating islands cast glowing shadows.,0,0,0.003129304852336645
+A digital painting of a creature made of pure data.,0,0,0.004988157656043768
+"A futuristic public transport system, glowing tracks, silent movement.",0,0,0.0019889059476554394
+"A detailed portrait of a robotic domestic helper, friendly expression.",0,0,0.005120371002703905
+"An enchanted forest, glowing moss, hidden waterfalls.",0,0,0.03687814250588417
+"A sleek, electric individual flying device, personal transport.",0,0,0.0028731536585837603
+"A whimsical robot street sweeper, glowing brushes, efficient.",0,0,0.0038776739966124296
+"A hyper-realistic alien ocean, vibrant colors, strange currents.",0,0,0.0026302377227693796
+A surreal landscape where reflections show dreamscapes.,0,0,0.00313292327336967
+"A high-tech environmental restoration project, glowing machinery.",0,0,0.0060296147130429745
+A detailed render of a transparent solar panel array.,0,0,0.0025253489147871733
+A mesmerizing display of glowing particles forming animals.,0,0,0.006910046096891165
+"A colossal sentient building, its walls shifting and changing.",0,0,0.18201148509979248
+"A city built entirely on massive, interconnected aerial platforms.",0,0,0.003112366423010826
+"A playful abstract depiction of sound waves, visualized as light.",0,0,0.003323820885270834

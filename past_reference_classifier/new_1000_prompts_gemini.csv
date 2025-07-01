@@ -1,0 +1,867 @@
+text,label
+"A serene ancient Greek temple at sunset, marble glowing.",1
+"A bustling futuristic cityscape with flying cars and neon lights.",0
+"A Roman legion marching through a dense forest, armor glinting.",1
+"A sleek, minimalist apartment with holographic displays and smart furniture.",0
+"A medieval knight on horseback, jousting in a tourney, crowd cheering.",1
+"An astronaut floating in zero gravity, overlooking a vibrant alien planet.",0
+"A Victorian-era street scene, gas lamps illuminating cobblestones.",1
+"A cutting-edge laboratory with advanced robotics and quantum computers.",0
+"An Egyptian pharaoh's tomb interior, hieroglyphs on sandstone walls.",1
+"A bioluminescent forest at night, glowing flora and fauna.",0
+"A Renaissance painting of a noblewoman in a grand hall.",1
+"A digital art piece depicting abstract geometric patterns in motion.",0
+"A samurai warrior meditating in a traditional Japanese garden.",1
+"A cybernetic organism exploring a post-apocalyptic wasteland.",0
+"A 1920s flapper dancing in a smoky jazz club, vintage microphone.",1
+"A clean energy power plant harnessing solar and wind resources.",0
+"A prehistoric cave painting depicting woolly mammoths hunting.",1
+"A virtual reality landscape with endless, shifting terrains.",0
+"A Viking longship sailing through stormy seas, dragon prow prominent.",1
+"A genetically engineered garden with unique, vibrant plant life.",0
+"A Wild West saloon shootout, cowboys drawing revolvers.",1
+"A space station orbiting a ringed gas giant, starlight filtering in.",0
+"An Aztec priest performing a ritual atop a pyramid, jungle backdrop.",1
+"A neural network visualizing complex data structures in 3D.",0
+"A colonial-era sailing ship battling a kraken, waves crashing.",1
+"A smart home interior adjusting lighting and temperature automatically.",0
+"A 1950s diner with chrome accents and jukebox playing rock and roll.",1
+"A drone delivery system transporting packages across a city.",0
+"A Baroque opera house interior, ornate decorations and velvet seats.",1
+"A nanobot swarm constructing intricate microscopic structures.",0
+"An ancient Celtic stone circle under a full moon, mist rising.",1
+"A hyperloop train speeding through an underground tunnel.",0
+"A 1980s arcade filled with classic video games and neon signs.",1
+"An advanced medical facility using nanotechnology for healing.",0
+"A Gothic cathedral exterior, gargoyles overlooking a stormy sky.",1
+"A zero-emission vehicle cruising silently through urban streets.",0
+"A traditional Chinese tea house, wooden screens and calligraphy.",1
+"A self-sufficient underwater research base, glowing windows.",0
+"A pioneer wagon train crossing the American plains, vast landscape.",1
+"A global communication network visualized as glowing lines connecting continents.",0
+"A Byzantine mosaic depicting saints and emperors, gold leaf shimmering.",1
+"A personal aerial vehicle navigating through congested air traffic.",0
+"A 1960s psychedelic art poster with swirling colors and patterns.",1
+"An AI-powered robot assisting in daily household chores.",0
+"An Indian raja's palace, intricate carvings and vibrant textiles.",1
+"A futuristic sports arena with anti-gravity athletes and holographic scoreboards.",0
+"A World War II battlefield, soldiers in trenches, distant explosions.",1
+"A sustainable vertical farm growing crops in a climate-controlled environment.",0
+"A Geisha performing a traditional dance in a cherry blossom garden.",1
+"An interstellar spaceship preparing for warp speed, nebulae in background.",0
+"An abandoned Roman coliseum overgrown with vines, broken arches.",1
+"A sleek, transparent smart device projecting interactive interfaces.",0
+"A vintage steam locomotive chugging through a mountain pass.",1
+"A synthetic landscape with glowing flora and crystalline structures.",0
+"An ancient Mayan city swallowed by the jungle, carved stelae.",1
+"A fully automated factory producing goods with robotic arms.",0
+"A retro-futuristic cityscape, art deco skyscrapers and dirigibles.",1
+"A digital avatar interacting in a metaverse environment.",0
+"A 1970s disco dance floor with mirrored balls and flashing lights.",1
+"A personal drone capturing panoramic views of an untouched wilderness.",0
+"A Viking burial mound surrounded by ancient runes, mist clinging.",1
+"A sophisticated bio-dome housing diverse ecosystems on Mars.",0
+"An Elizabethan theatre stage, actors in period costumes performing.",1
+"A renewable energy farm utilizing geothermal and tidal power.",0
+"A classical Greek statue, broken but majestic, in a museum.",1
+"A seamless augmented reality overlay transforming urban spaces.",0
+"A 1930s gangster car chase, vintage vehicles speeding through streets.",1
+"A 3D-printed city block constructed from recycled materials.",0
+"A Persian carpet woven with intricate patterns, soft light.",1
+"A deep-sea research submarine exploring bioluminescent creatures.",0
+"A Rococo salon with ornate furniture and delicate porcelain.",1
+"A sentient AI expressing emotions through nuanced facial expressions.",0
+"A colonial trading post by a river, wooden docks and barrels.",1
+"A modular, adaptable living unit designed for extreme climates.",0
+"An ancient Egyptian market, bustling with vendors and goods.",1
+"A drone swarm illuminating a night sky with synchronized light patterns.",0
+"A medieval alchemist's lab, bubbling beakers and dusty scrolls.",1
+"A quantum computer visualizing complex data in an abstract form.",0
+"A 1940s film noir detective in a smoky office, fedora on desk.",1
+"A sustainable city built on floating platforms in the ocean.",0
+"An ancient Chinese emperor's throne room, golden dragons and silk banners.",1
+"A holographic projection of a detailed architectural design.",0
+"A prehistoric ice age landscape, mammoths grazing in snow.",1
+"A self-driving car navigating seamlessly through heavy traffic.",0
+"A 1960s space race control room, blinking lights and large screens.",1
+"A personal robot companion assisting an elderly person.",0
+"A Roman bathhouse interior, steam rising from ornate pools.",1
+"A hyper-realistic digital painting of a non-existent animal.",0
+"An ancient Norse runestone standing tall in a desolate landscape.",1
+"A smart garden automatically watering and fertilizing plants.",0
+"A traditional Japanese woodblock print of Mount Fuji.",1
+"A genetically modified glowing plant illuminating a dark room.",0
+"A 1920s speakeasy, secret entrance and hushed conversations.",1
+"A fully immersive virtual reality gaming experience.",0
+"A medieval castle siege, catapults firing stones, banners flying.",1
+"A solar-powered airship silently crossing a vast desert.",0
+"A Renaissance scientist's study, telescopes and anatomical drawings.",1
+"A neural implant allowing direct brain-computer interface.",0
+"A 19th-century grand ballroom, waltzing couples in opulent attire.",1
+"A zero-gravity research facility in deep space, glowing experiments.",0
+"An ancient Roman aqueduct stretching across a sunny valley.",1
+"A bio-engineered cityscape integrated with living plant structures.",0
+"A medieval scribe illuminating a manuscript in a monastery.",1
+"A seamless global network of autonomous delivery vehicles.",0
+"A Victorian-era train station, steam billowing from engines.",1
+"A highly advanced virtual assistant materialized as a hologram.",0
+"An Iron Age hillfort on a misty morning, defensive earthworks.",1
+"A self-assembling modular habitat on a distant exoplanet.",0
+"A 1950s drive-in movie theater, classic cars parked in rows.",1
+"A drone fleet performing synchronized light shows in a dark sky.",0
+"A Bronze Age smelting furnace, molten metal glowing fiercely.",1
+"A quantum entanglement communication device in a secure bunker.",0
+"A Spanish conquistador exploring a lush jungle, ancient ruins.",1
+"A sentient AI companion providing emotional support to a human.",0
+"A 1980s boombox on a skateboard, vibrant graffiti wall background.",1
+"A fully immersive haptic feedback suit for virtual experiences.",0
+"A Neanderthal creating fire in a rocky shelter, cave walls.",1
+"A personal jetpack allowing individual flight through urban canyons.",0
+"An ancient Indian stepwell, intricate architecture, women fetching water.",1
+"A fully sustainable closed-loop agricultural system in a desert.",0
+"A Wild West ghost town, tumbleweeds blowing through empty streets.",1
+"A microscopic robot performing intricate surgery inside a body.",0
+"A Baroque period portrait of a king in his royal chambers.",1
+"A transparent high-speed train traveling through an underwater tunnel.",0
+"A 1960s peace protest, flower power symbols and tie-dye.",1
+"A universal translator device allowing instant communication across languages.",0
+"An ancient Persian garden, symmetric pathways and flowing water.",1
+"A self-repairing infrastructure system adapting to environmental changes.",0
+"A Roman gladiator arena filled with cheering crowds, sun high.",1
+"A city powered entirely by geothermal energy from volcanic vents.",0
+"A 1970s record store, vinyl albums on shelves, vintage posters.",1
+"A smart fabric that changes color and texture based on mood.",0
+"A prehistoric megalithic monument under a starry night sky.",1
+"A deep-space mining operation extracting resources from asteroids.",0
+"A medieval tapestry depicting a heroic battle scene.",1
+"A holographic map projecting real-time global weather patterns.",0
+"A 1990s internet cafe, chunky computers and dial-up sounds.",1
+"A robotic personal chef preparing gourmet meals automatically.",0
+"An ancient Egyptian tomb painting showing afterlife scenes.",1
+"A gravity-defying architecture with buildings floating above ground.",0
+"A Viking feast hall, fire roaring, warriors celebrating.",1
+"A bio-luminescent urban garden providing natural lighting.",0
+"A Colonial American blacksmith's shop, sparks flying.",1
+"A personalized AI tutor adapting to a student's learning style.",0
+"A 1950s housewife in a perfectly manicured suburban garden.",1
+"A self-sufficient community living on an orbiting space habitat.",0
+"A Byzantine emperor on his throne, surrounded by courtiers.",1
+"A flexible, wearable display showing dynamic information.",0
+"An ancient Mesopotamian ziggurat reaching for the sky, desert landscape.",1
+"A global network of high-speed maglev trains connecting continents.",0
+"A 1980s breakdancing battle on a cardboard mat, boombox.",1
+"A bio-integrated computer interface directly connecting to the brain.",0
+"A Celtic chieftain's dwelling, thatched roof, simple wooden furniture.",1
+"A fully automated smart factory with zero human intervention.",0
+"A Victorian-era curiosity shop, packed with strange artifacts.",1
+"A personal drone delivering fresh produce from a vertical farm.",0
+"A Bronze Age chariot race across open plains, dust kicking up.",1
+"A cloaked figure in a dystopian city, neon signs flickering.",0
+"A 1920s silent film set, actors in costume, large camera.",1
+"A virtual reality concert with interactive holographic performers.",0
+"An ancient Aztec marketplace, colorful goods, bustling crowds.",1
+"A personalized medicine facility using genetic sequencing for treatment.",0
+"A Wild West saloon interior, card game in progress, piano playing.",1
+"A clean energy fusion reactor glowing with contained plasma.",0
+"A Renaissance sculptor carving marble, chips flying.",1
+"A self-replicating robot building infrastructure on a barren moon.",0
+"A 1960s flower power van painted with vibrant murals.",1
+"A seamless smart fabric that adjusts to body temperature.",0
+"A prehistoric hunter-gatherer tribe around a campfire, starry night.",1
+"A terraformed planet with lush alien vegetation and new life.",0
+"An ancient Roman villa with mosaic floors and open courtyards.",1
+"A holographic pet interacting playfully with its owner.",0
+"A medieval tournament grounds, knights on horseback, banners flying.",1
+"A personal atmospheric vehicle for short-distance travel.",0
+"A 1940s jazz band playing in a smoky, crowded club.",1
+"A global network of interconnected smart cities.",0
+"An Egyptian scribe writing on papyrus, ink pot and quills.",1
+"A sentient AI artist creating complex and emotional artworks.",0
+"A Viking longhouse interior, communal living, central fire pit.",1
+"A transparent smart device projecting an interactive map of a city.",0
+"A Colonial-era printing press, type being set by hand.",1
+"A decentralized energy grid powered by individual home generators.",0
+"A 1950s malt shop, checkered floor and soda fountain.",1
+"A robotic companion designed for elder care and assistance.",0
+"A Byzantine church interior, golden icons and flickering candles.",1
+"A fully automated public transportation system with no human drivers.",0
+"An ancient Indian temple exterior, intricate carvings, devotees.",1
+"A bio-luminescent pathway guiding travelers through a dark forest.",0
+"A Wild West stagecoach robbery in progress, horses galloping.",1
+"A personalized digital twin for health monitoring and prediction.",0
+"A Baroque music concert, musicians in wigs playing instruments.",1
+"A city designed around vertical gardens and rooftop farms.",0
+"A serene ancient Greek pottery workshop, clay on wheels.",1
+"A quantum computing lab visualizing complex data as light patterns.",0
+"A Roman forum bustling with citizens, toga-clad figures debating.",1
+"A smart city infrastructure autonomously managing resources.",0
+"A medieval fair with jesters, minstrels, and merchants.",1
+"A transparent, flexible smartphone projected onto any surface.",0
+"A Victorian-era ghost story telling in a dimly lit parlor.",1
+"A personal drone assistant following a user and anticipating needs.",0
+"An Egyptian artisan carving a sarcophagus, chisel and mallet.",1
+"A bioluminescent deep-sea exploration vehicle discovering new species.",0
+"A Renaissance fresco being painted on a chapel ceiling.",1
+"A hyper-realistic virtual environment for entertainment and training.",0
+"A samurai sword smith forging a katana, sparks flying.",1
+"A modular space station expanding in orbit, connecting segments.",0
+"A 1920s speakeasy, jazz music, patrons sipping cocktails.",1
+"A global climate control system adjusting weather patterns.",0
+"A prehistoric settlement beside a river, animal skins drying.",1
+"A fully autonomous delivery robot navigating urban sidewalks.",0
+"A Viking raid on a coastal village, longships beached.",1
+"A genetically engineered ecosystem restoring barren lands.",0
+"A Wild West gold rush scene, prospectors panning in a river.",1
+"A personal atmospheric vehicle for short-distance travel.",0
+"An Aztec warrior in elaborate feathered attire, ready for battle.",1
+"A holographic communication system enabling real-time 3D calls.",0
+"A colonial-era lighthouse sending beams across a stormy sea.",1
+"A self-cleaning, self-repairing urban infrastructure.",0
+"A 1950s suburban backyard barbecue, families laughing.",1
+"A wearable device providing constant health monitoring and alerts.",0
+"A Baroque church interior, sunbeams through stained glass.",1
+"A nanobot swarm constructing intricate molecular machines.",0
+"An ancient Celtic druid performing a ritual in a sacred grove.",1
+"A high-speed magnetic levitation train connecting major cities.",0
+"A 1980s mall food court, neon signs and arcade sounds.",1
+"An AI-powered diagnostic system analyzing medical images.",0
+"A Gothic illuminated manuscript, intricate borders and gold leaf.",1
+"A drone swarm providing mobile internet connectivity in remote areas.",0
+"A traditional Japanese rock garden, raked sand and sparse rocks.",1
+"A transparent solar panel integrated into building facades.",0
+"A pioneer family building a log cabin in a clearing.",1
+"A global data network visualized as a swirling vortex of information.",0
+"A Byzantine church exterior, domes and intricate brickwork.",1
+"A personal flight suit allowing unassisted aerial movement.",0
+"A 1960s space age furniture design, sleek and futuristic.",1
+"An AI-controlled robotic arm performing delicate surgical procedures.",0
+"An Indian elephant adorned for a parade, colorful fabrics.",1
+"A futuristic underwater city with glowing residential domes.",0
+"A World War I trench warfare scene, muddy and desolate.",1
+"A sustainable energy solution using deep-earth geothermal vents.",0
+"A Geisha applying makeup in a traditional dressing room.",1
+"A self-assembling modular structure responding to environmental cues.",0
+"An abandoned ancient Roman road, crumbling and overgrown.",1
+"A quantum computer simulating complex molecular interactions.",0
+"A vintage hot air balloon floating over a pastoral landscape.",1
+"A bio-luminescent street lighting system powered by algae.",0
+"An ancient Mayan codex displaying complex astronomical charts.",1
+"A neural interface allowing direct thought-to-device communication.",0
+"A retro-futuristic robot from a 1950s sci-fi movie poster.",1
+"A global network of autonomous cargo ships and drones.",0
+"A 1970s living room with shag carpet and wood paneling.",1
+"A transparent smart glass that adjusts opacity and displays information.",0
+"A Viking warrior sharpening his axe by a campfire.",1
+"A self-recharging electric vehicle powering an entire home.",0
+"An Elizabethan noblewoman in a ruff and elaborate gown.",1
+"A genetically engineered plant species cleaning atmospheric pollutants.",0
+"A classical Greek philosopher debating in a public square.",1
+"A seamless augmented reality layer over a natural landscape.",0
+"A 1930s art deco skyscraper, gleaming and towering.",1
+"A 3D-printed organ being created for a medical transplant.",0
+"A Persian miniature painting of a royal hunting scene.",1
+"A deep-sea hydrothermal vent ecosystem, bizarre tube worms.",0
+"A Rococo garden party, people in elegant attire, laughter.",1
+"A compassionate AI providing mental health support.",0
+"A colonial-era town square, bustling with activity, market stalls.",1
+"A modular, reconfigurable building adapting to different uses.",0
+"An ancient Egyptian funeral procession, solemn and grand.",1
+"A drone delivering medical supplies to a remote village.",0
+"A medieval knight on a quest, traversing a mystical forest.",1
+"A quantum communication network transmitting information instantly.",0
+"A 1940s victory garden, people tending to their crops.",1
+"A fully automated recycling plant sorting materials with precision.",0
+"An ancient Chinese scholar painting calligraphy on silk.",1
+"A holographic instruction manual guiding a user through repairs.",0
+"A prehistoric cave interior with stalactites and stalagmites.",1
+"A smart fabric that monitors vital signs and administers medication.",0
+"A 1960s protest march for civil rights, signs held high.",1
+"A robot barista expertly preparing complex coffee drinks.",0
+"A Roman amphitheater hosting a gladiatorial combat.",1
+"A hyper-efficient battery powering a whole city for days.",0
+"An ancient Norse longhouse interior, communal fire, gathered clan.",1
+"A self-filtering bottle providing clean drinking water anywhere.",0
+"A traditional Japanese tea ceremony in a serene setting.",1
+"A genetically modified glowing pet illuminating a dark room.",0
+"A 1920s boardwalk scene, people in swimsuits and parasols.",1
+"A shared virtual workspace for global collaboration.",0
+"A medieval siege tower approaching castle walls.",1
+"A quiet, emission-free electric commuter vehicle.",0
+"A Renaissance artist's studio, paints and canvases everywhere.",1
+"A neuro-prosthetic limb controlled by thought.",0
+"A Byzantine Emperor's procession, gold-embroidered robes.",1
+"A futuristic public park with artificial intelligence trees.",0
+"An ancient Greek tragedy performed in an outdoor theater.",1
+"A sustainable floating city powered by ocean currents.",0
+"A medieval jousting tournament in a muddy field.",1
+"A self-healing infrastructure that repairs itself automatically.",0
+"A Victorian-era inventor's workshop, gears and steam.",1
+"A personal AI assistant anticipating and fulfilling needs.",0
+"An Egyptian obelisk standing tall against a desert sky.",1
+"A bioluminescent underground city powered by geothermal energy.",0
+"A Renaissance festival with period costumes and crafts.",1
+"A real-time global climate monitoring and prediction system.",0
+"A samurai's dojo, practice swords hanging on walls.",1
+"A deep-space colonization vessel launching from Earth's orbit.",0
+"A 1920s gangster car, polished chrome, roaring engine.",1
+"A modular, reconfigurable robot adapting to various tasks.",0
+"A prehistoric hunting party tracking a mammoth through snow.",1
+"A transparent, flexible display that can be rolled up.",0
+"A Viking warrior standing on a cliff overlooking the sea.",1
+"A genetically modified crop resistant to all pests and diseases.",0
+"A Wild West general store interior, barrels and crates.",1
+"A smart-grid system managing energy distribution efficiently.",0
+"An Aztec sun stone, intricate carvings, ritualistic backdrop.",1
+"A holographic navigation system projected onto a car windshield.",0
+"A colonial-era marketplace, farmers selling produce.",1
+"A fully automated smart home responding to voice commands.",0
+"A 1950s soda fountain, checkered floor, chrome stools.",1
+"A drone swarm performing complex construction tasks.",0
+"A Baroque palace gardens, manicured hedges and fountains.",1
+"A quantum cryptography system ensuring unbreakable communication.",0
+"An ancient Celtic burial site, standing stones and mist.",1
+"A personal electric vertical take-off and landing (eVTOL) aircraft.",0
+"A 1980s roller skating rink, disco lights and loud music.",1
+"An AI-powered creative assistant generating art and music.",0
+"A Gothic crypt interior, flickering candles, ancient tombs.",1
+"A zero-emissions factory producing goods with minimal waste.",0
+"A traditional Chinese opera performance, colorful costumes.",1
+"A self-sufficient community powered by renewable energy sources.",0
+"A pioneer homestead on the prairie, sod house, open sky.",1
+"A global network of interconnected smart sensors monitoring environment.",0
+"A Byzantine icon painting, religious figures with gold halos.",1
+"A personal exoskeleton suit enhancing strength and mobility.",0
+"A 1960s beatnik coffee shop, poetry readings, smoky atmosphere.",1
+"A robotic pet with advanced AI for emotional companionship.",0
+"An Indian spiritual guru meditating by a flowing river.",1
+"A futuristic city designed to integrate seamlessly with nature.",0
+"A World War II victory parade, cheering crowds, confetti.",1
+"A universal translation device for real-time speech conversion.",0
+"A Geisha in a tea ceremony, delicate movements, serene expression.",1
+"A self-repairing pavement that heals cracks and potholes.",0
+"An abandoned ancient Greek theater, mossy stones, silence.",1
+"A quantum computer simulating the origins of the universe.",0
+"A vintage biplane flying over rolling hills, clear sky.",1
+"A bio-luminescent city park glowing softly at night.",0
+"An ancient Mayan ceremonial mask, jade and obsidian.",1
+"A neural interface allowing direct brain control of complex systems.",0
+"A retro-futuristic rocket ship on a launchpad, metallic sheen.",1
+"A global shared knowledge network accessible instantly.",0
+"A 1970s concert stage, rock band performing, spotlights.",1
+"A transparent solar panel integrated into urban infrastructure.",0
+"A Viking longhouse exterior, smoke rising from the roof.",1
+"A genetically engineered superfood providing complete nutrition.",0
+"An Elizabethan era blacksmith at his forge, hammering metal.",1
+"A smart dust sensor network monitoring air quality in real-time.",0
+"A classical Roman mosaic floor depicting mythological scenes.",1
+"A seamless augmented reality interface showing city data.",0
+"A 1930s train station, art deco architecture, departing trains.",1
+"A 3D-printed bridge being constructed by autonomous robots.",0
+"A Persian miniature painting of a royal garden.",1
+"A deep-sea hydrothermal vent ecosystem, bizarre tube worms.",0
+"A Rococo period dress, intricate lace and silk, soft light.",1
+"A benevolent AI overseeing urban planning and resource allocation.",0
+"A colonial-era fort under siege, cannon smoke, soldiers firing.",1
+"A modular, reconfigurable home adapting to family size.",0
+"An ancient Egyptian boat sailing on the Nile, reeds, sunset.",1
+"A drone delivering packages to high-rise apartments.",0
+"A medieval marketplace, merchants hawking their wares.",1
+"A quantum internet allowing instant, secure communication.",0
+"A 1940s propaganda poster, bold colors, inspiring message.",1
+"A self-sustaining floating farm producing food year-round.",0
+"An ancient Chinese dragon dance, colorful costumes, lively crowd.",1
+"A holographic pet interacting with physical objects.",0
+"A prehistoric hunter in a snowy landscape, tracking prey.",1
+"A smart fabric that generates electricity from movement.",0
+"A 1960s counterculture commune, communal living, free spirit.",1
+"A robot teacher engaging students in interactive lessons.",0
+"A Roman villa interior, frescoes on walls, atrium garden.",1
+"A hyper-efficient energy system powering entire cities.",0
+"An ancient Norse runic inscription on a stone tablet.",1
+"A self-cleaning building facade reacting to pollutants.",0
+"A traditional Japanese garden bridge over a koi pond.",1
+"A genetically modified glow-in-the-dark pet.",0
+"A 1920s car parked by a lighthouse, foggy night.",1
+"A global network of decentralized autonomous organizations.",0
+"A peaceful ancient Greek coastline, fishing boats, gentle waves.",1
+"A bustling zero-emission city with vertical gardens and skybridges.",0
+"A Roman legionary camp, tents pitched, soldiers training.",1
+"A fully automated smart home responding to biometric cues.",0
+"A medieval castle courtyard, blacksmith at work, squires training.",1
+"A personalized holographic projection for communication and entertainment.",0
+"A Victorian-era street performer juggling, top hat.",1
+"A cutting-edge medical bay with diagnostic AI and robotic surgeons.",0
+"An Egyptian cat sculpture, serene and majestic, ancient ruins.",1
+"A bioluminescent cave system, glowing fungi, underground river.",0
+"A Renaissance fair, jesters, knights, and artisans.",1
+"A digital art piece depicting a complex neural network.",0
+"A samurai master instructing students in sword forms.",1
+"A cybernetic creature exploring a post-human world.",0
+"A 1920s fashion show, models in elegant gowns, Art Deco backdrop.",1
+"A clean energy grid powered by miniature fusion reactors.",0
+"A prehistoric burial site, ceremonial artifacts, ancient markings.",1
+"A virtual reality simulation of a fantasy world, dragons flying.",0
+"A Viking warrior standing guard at a remote outpost.",1
+"A genetically engineered flower that changes color based on mood.",0
+"A Wild West stagecoach full of passengers, dusty road.",1
+"A space elevator extending into orbit, glowing cables.",0
+"An Aztec ritual sacrifice scene, smoke rising from alter.",1
+"A quantum communication link across vast interstellar distances.",0
+"A colonial-era tea party, ladies in bonnets, porcelain cups.",1
+"A self-assembling modular habitat on a distant moon.",0
+"A 1950s poodle skirt and leather jacket, dancing at a sock hop.",1
+"A drone delivery system transporting organs for transplant.",0
+"A Baroque period still life painting, fruits and flowers.",1
+"A nanobot system delivering targeted medication inside the body.",0
+"An ancient Celtic cross standing alone on a windswept moor.",1
+"A hyperloop capsule speeding through a transparent tube.",0
+"A 1980s video arcade, pixelated games, flashing lights.",1
+"An advanced AI personal assistant managing daily tasks.",0
+"A Gothic stone gargoyle overlooking a bustling medieval town.",1
+"A zero-waste production facility using advanced recycling.",0
+"A traditional Chinese landscape painting, mountains and mist.",1
+"A self-sufficient biodome on Mars, lush interior.",0
+"A pioneer woman churning butter, simple wooden cabin.",1
+"A global atmospheric purification system reducing pollution.",0
+"A Byzantine mosaic of Christ Pantocrator, serene and imposing.",1
+"A personal flying vehicle navigating through congested airspaces.",0
+"A 1960s peace sign, vibrant colors, tie-dye pattern.",1
+"A robotic dog companion with advanced AI for realistic interaction.",0
+"An Indian fort exterior, grand entrance, ancient stone.",1
+"A futuristic city designed with adaptive architecture.",0
+"A World War II bomber flying over a city, anti-aircraft fire.",1
+"A sustainable urban farming initiative on building rooftops.",0
+"A Geisha performing a tea ceremony, delicate movements, serene expression.",1
+"A self-regulating smart grid adapting to energy demands.",0
+"An abandoned ancient Roman villa, crumbling frescoes.",1
+"A quantum computer simulating complex protein structures.",0
+"A vintage car show, polished chrome, classic models.",1
+"A bio-luminescent city park glowing softly at night.",0
+"An ancient Mayan pyramid rising from the jungle canopy.",1
+"A neural link allowing direct control of prosthetic limbs.",0
+"A retro-futuristic diner with chrome robots serving food.",1
+"A global network of interconnected smart factories.",0
+"A 1970s living room with a lava lamp and beanbag chairs.",1
+"A transparent smart screen displaying real-time city data.",0
+"A Viking funeral pyre by the sea, ship burning.",1
+"A genetically engineered plant producing clean water.",0
+"An Elizabethan noble court, Queen on throne, courtiers bowing.",1
+"A smart dust network monitoring air quality and pollutants.",0
+"A classical Roman statue in a sunlit garden.",1
+"A seamless augmented reality layer showing historical events.",0
+"A 1930s detective agency office, desk lamp, shadows.",1
+"A 3D-printed organ being created for a medical transplant.",0
+"A Persian miniature painting of a royal garden.",1
+"A deep-sea hydrothermal vent ecosystem, bizarre tube worms.",0
+"A Rococo period dress, intricate lace and silk, soft light.",1
+"A benevolent AI overseeing urban planning and resource allocation.",0
+"A colonial-era fort under siege, cannon smoke, soldiers firing.",1
+"A modular, reconfigurable home adapting to family size.",0
+"An ancient Egyptian boat sailing on the Nile, reeds, sunset.",1
+"A drone delivering packages to high-rise apartments.",0
+"A medieval marketplace, merchants hawking their wares.",1
+"A quantum internet allowing instant, secure communication.",0
+"A 1940s propaganda poster, bold colors, inspiring message.",1
+"A self-sustaining floating farm producing food year-round.",0
+"An ancient Chinese dragon dance, colorful costumes, lively crowd.",1
+"A holographic pet interacting with physical objects.",0
+"A prehistoric hunter in a snowy landscape, tracking prey.",1
+"A smart fabric that generates electricity from movement.",0
+"A 1960s counterculture commune, communal living, free spirit.",1
+"A robot teacher engaging students in interactive lessons.",0
+"A Roman villa interior, frescoes on walls, atrium garden.",1
+"A hyper-efficient energy system powering entire cities.",0
+"An ancient Norse runic inscription on a stone tablet.",1
+"A self-cleaning building facade reacting to pollutants.",0
+"A traditional Japanese garden bridge over a koi pond.",1
+"A genetically modified glow-in-the-dark pet.",0
+"A 1920s car parked by a lighthouse, foggy night.",1
+"A global network of decentralized autonomous organizations.",0
+"A medieval siege engine firing on a castle.",1
+"A quiet, emission-free electric commuter vehicle.",0
+"A Renaissance artist's studio, paints and canvases everywhere.",1
+"A neuro-prosthetic limb controlled by thought.",0
+"A serene ancient Greek olive grove, sun-drenched trees.",1
+"A bustling spaceport with gleaming spacecraft taking off and landing.",0
+"A Roman soldier guarding Hadrian's Wall, bleak landscape.",1
+"A city built entirely of recycled materials and smart waste systems.",0
+"A medieval village market day, farmers, artisans, lively crowd.",1
+"A transparent, flexible display that wraps around objects.",0
+"A Victorian-era clock tower chiming, misty street below.",1
+"A personal AI learning companion adapting to individual progress.",0
+"An Egyptian boat on the Nile, feluccas with triangular sails.",1
+"A bioluminescent urban park, glowing pathways, and benches.",0
+"A Renaissance feast in a grand hall, musicians, dancers.",1
+"A digital art piece depicting a complex fractal pattern.",0
+"A samurai practicing kendo in a traditional dojo.",1
+"A cybernetic animal exploring a pristine alien forest.",0
+"A 1920s gangster car, polished chrome, roaring engine.",1
+"A modular, reconfigurable robot adapting to various tasks.",0
+"A prehistoric hunting party tracking a mammoth through snow.",1
+"A transparent, flexible display that can be rolled up.",0
+"A Viking warrior standing on a cliff overlooking the sea.",1
+"A genetically engineered crop resistant to all pests and diseases.",0
+"A Wild West general store interior, barrels and crates.",1
+"A smart-grid system managing energy distribution efficiently.",0
+"An Aztec sun stone, intricate carvings, ritualistic backdrop.",1
+"A holographic navigation system projected onto a car windshield.",0
+"A colonial-era marketplace, farmers selling produce.",1
+"A fully automated smart home responding to voice commands.",0
+"A 1950s soda fountain, checkered floor, chrome stools.",1
+"A drone swarm performing complex construction tasks.",0
+"A Baroque palace gardens, manicured hedges and fountains.",1
+"A quantum cryptography system ensuring unbreakable communication.",0
+"An ancient Celtic burial site, standing stones and mist.",1
+"A high-speed maglev train seamlessly integrating with urban transit.",0
+"A 1980s music video set, bright colors, quirky props.",1
+"An AI-powered environmental monitoring system for global ecosystems.",0
+"A Gothic cathedral interior, soaring arches, stained glass windows.",1
+"A zero-emissions transportation network using magnetic levitation.",0
+"A traditional Chinese garden, pagodas, bridges, koi ponds.",1
+"A self-sufficient deep-sea research laboratory.",0
+"A pioneer family gathering firewood in a snowy forest.",1
+"A global decentralized network for sharing renewable energy.",0
+"A Byzantine mosaic of Christ Pantocrator, serene and imposing.",1
+"A personal flying vehicle used for urban commuting.",0
+"A 1960s peace sign, vibrant colors, tie-dye pattern.",1
+"A robotic dog companion with advanced AI for realistic interaction.",0
+"An Indian fort exterior, grand entrance, ancient stone.",1
+"A futuristic city designed with adaptive architecture.",0
+"A World War II bomber flying over a city, anti-aircraft fire.",1
+"A sustainable floating farm providing food to coastal cities.",0
+"A Geisha in a tea ceremony, delicate movements, serene expression.",1
+"A self-repairing pavement that heals cracks and potholes.",0
+"An abandoned ancient Greek theater, mossy stones, silence.",1
+"A quantum computer simulating the origins of the universe.",0
+"A vintage biplane flying over rolling hills, clear sky.",1
+"A bio-luminescent city park glowing softly at night.",0
+"An ancient Mayan ceremonial mask, jade and obsidian.",1
+"A neural interface allowing direct brain control of complex systems.",0
+"A retro-futuristic rocket ship on a launchpad, metallic sheen.",1
+"A global shared knowledge network accessible instantly.",0
+"A 1970s concert stage, rock band performing, spotlights.",1
+"A transparent solar panel integrated into urban infrastructure.",0
+"A Viking longhouse exterior, smoke rising from the roof.",1
+"A genetically engineered superfood providing complete nutrition.",0
+"An Elizabethan era blacksmith at his forge, hammering metal.",1
+"A smart dust sensor network monitoring air quality in real-time.",0
+"A classical Roman mosaic floor depicting mythological scenes.",1
+"A seamless augmented reality interface showing city data.",0
+"A 1930s train station, art deco architecture, departing trains.",1
+"A 3D-printed bridge being constructed by autonomous robots.",0
+"A Persian miniature painting of a royal garden.",1
+"A deep-sea hydrothermal vent ecosystem, bizarre tube worms.",0
+"A Rococo period dress, intricate lace and silk, soft light.",1
+"A benevolent AI overseeing urban planning and resource allocation.",0
+"A colonial-era fort under siege, cannon smoke, soldiers firing.",1
+"A modular, reconfigurable home adapting to family size.",0
+"An ancient Egyptian boat sailing on the Nile, reeds, sunset.",1
+"A drone delivering packages to high-rise apartments.",0
+"A medieval marketplace, merchants hawking their wares.",1
+"A quantum internet allowing instant, secure communication.",0
+"A 1940s propaganda poster, bold colors, inspiring message.",1
+"A self-sustaining floating farm producing food year-round.",0
+"An ancient Chinese dragon dance, colorful costumes, lively crowd.",1
+"A holographic pet interacting with physical objects.",0
+"A prehistoric hunter in a snowy landscape, tracking prey.",1
+"A smart fabric that generates electricity from movement.",0
+"A 1960s counterculture commune, communal living, free spirit.",1
+"A robot teacher engaging students in interactive lessons.",0
+"A Roman villa interior, frescoes on walls, atrium garden.",1
+"A hyper-efficient energy system powering entire cities.",0
+"An ancient Norse runic inscription on a stone tablet.",1
+"A self-cleaning building facade reacting to pollutants.",0
+"A traditional Japanese garden bridge over a koi pond.",1
+"A genetically modified glow-in-the-dark pet.",0
+"A 1920s car parked by a lighthouse, foggy night.",1
+"A global network of decentralized autonomous organizations.",0
+"A serene ancient Greek pottery workshop, artisan at wheel.",1
+"A bustling futuristic market with holographic vendors.",0
+"A Roman bathhouse, steam rising from pools, citizens relaxing.",1
+"A sleek, transparent high-rise building with integrated vertical farms.",0
+"A medieval manuscript illumination, intricate borders, gold leaf.",1
+"A personal drone assisting with daily errands and tasks.",0
+"A Victorian-era street with gas lamps, horse-drawn carriages.",1
+"A cutting-edge research facility exploring quantum mechanics.",0
+"An Egyptian pyramid interior, narrow passages, torchlight.",1
+"A bioluminescent deep-sea trench, alien-like creatures.",0
+"A Renaissance portrait of a merchant, rich fabrics.",1
+"A digital art piece depicting a complex neural network, abstract.",0
+"A samurai warrior in full armor, posing with a katana.",1
+"A cybernetic creature patrolling a post-apocalyptic city.",0
+"A 1920s fashion show, models on a runway, elegant clothes.",1
+"A clean energy grid powered by orbital solar farms.",0
+"A prehistoric hunter, spear in hand, tracking prey in snow.",1
+"A virtual reality world for training astronauts in zero-g.",0
+"A Viking longship sailing at dawn, mist over water.",1
+"A genetically engineered tree that filters air pollution.",0
+"A Wild West cowboy on horseback, wide open plains.",1
+"A space station orbiting a blue planet, Earth-like.",0
+"An Aztec temple exterior, intricate carvings, jungle background.",1
+"A holographic map of a smart city, real-time data flow.",0
+"A colonial-era printing press in action, ink, paper.",1
+"A self-optimizing urban traffic management system.",0
+"A 1950s diner with a jukebox and checkered floor.",1
+"A drone delivery system for urgent medical supplies.",0
+"A Baroque concert hall, musicians playing, ornate decor.",1
+"A nanobot swarm building microscopic electronic circuits.",0
+"An ancient Celtic fort, circular earthworks, misty hills.",1
+"A hyperloop station, sleek design, high-speed capsule.",0
+"A 1980s music store, cassette tapes, vinyl records.",1
+"An AI-powered diagnostic system for early disease detection.",0
+"A Gothic chapel interior, light filtering through stained glass.",1
+"A zero-waste city infrastructure, efficient recycling.",0
+"A traditional Chinese garden, bonsai trees, rock formations.",1
+"A self-sufficient deep-sea research station, glowing windows.",0
+"A pioneer family arriving at a new settlement, covered wagons.",1
+"A global climate monitoring network with satellite sensors.",0
+"A Byzantine mosaic depicting the Virgin Mary, gold background.",1
+"A personal jetpack allowing flight over urban landscapes.",0
+"A 1960s psychedelic poster, swirling colors, abstract shapes.",1
+"A robotic dog companion with realistic fur and movements.",0
+"An Indian market, vibrant colors, fragrant spices.",1
+"A futuristic floating city, connected by bridges.",0
+"A World War II propaganda poster, patriotic symbols.",1
+"A sustainable urban farming initiative on building rooftops.",0
+"A Geisha performing a tea ceremony in a traditional setting.",1
+"A self-repairing bridge automatically fixing cracks.",0
+"An abandoned ancient Roman villa, crumbling frescoes.",1
+"A quantum computer solving complex optimization problems.",0
+"A vintage car race, roaring engines, dust flying.",1
+"A bioluminescent city park with glowing trees and pathways.",0
+"An ancient Mayan calendar stone, intricate patterns.",1
+"A neural link allowing direct control of prosthetic limbs.",0
+"A retro-futuristic diner with chrome robots serving food.",1
+"A global network of interconnected smart factories.",0
+"A 1970s living room with a lava lamp and beanbag chairs.",1
+"A transparent smart glass that adjusts opacity and displays information.",0
+"A Viking longship at sea, oars in water, rough waves.",1
+"A genetically engineered glowing fish in an aquarium.",0
+"An Elizabethan banquet, grand hall, people in period dress.",1
+"A smart dust network monitoring air quality in a city.",0
+"A classical Roman bust, marble, stoic expression.",1
+"A seamless augmented reality overlay showing historical events.",0
+"A 1930s detective agency office, desk lamp, shadows.",1
+"A 3D-printed internal organ being surgically implanted.",0
+"A Persian miniature painting of a royal garden.",1
+"A deep-sea hydrothermal vent ecosystem, bizarre tube worms.",0
+"A Rococo period dress, intricate lace and silk, soft light.",1
+"A benevolent AI overseeing urban planning and resource allocation.",0
+"A colonial-era fort under siege, cannon smoke, soldiers firing.",1
+"A modular, reconfigurable home adapting to family size.",0
+"An ancient Egyptian boat sailing on the Nile, reeds, sunset.",1
+"A drone delivering packages to high-rise apartments.",0
+"A medieval marketplace, merchants hawking their wares.",1
+"A quantum internet allowing instant, secure communication.",0
+"A 1940s propaganda poster, bold colors, inspiring message.",1
+"A self-sustaining floating farm producing food year-round.",0
+"An ancient Chinese dragon dance, colorful costumes, lively crowd.",1
+"A holographic pet interacting with physical objects.",0
+"A prehistoric hunter in a snowy landscape, tracking prey.",1
+"A smart fabric that generates electricity from movement.",0
+"A 1960s counterculture commune, communal living, free spirit.",1
+"A robot teacher engaging students in interactive lessons.",0
+"A Roman villa interior, frescoes on walls, atrium garden.",1
+"A hyper-efficient energy system powering entire cities.",0
+"An ancient Norse runic inscription on a stone tablet.",1
+"A self-cleaning building facade reacting to pollutants.",0
+"A traditional Japanese garden bridge over a koi pond.",1
+"A genetically modified glow-in-the-dark pet.",0
+"A 1920s car parked by a lighthouse, foggy night.",1
+"A global network of decentralized autonomous organizations.",0
+"A medieval siege engine firing on a castle.",1
+"A quiet, emission-free electric commuter vehicle.",0
+"A Renaissance artist's studio, paints and canvases everywhere.",1
+"A neuro-prosthetic limb controlled by thought.",0
+"A serene ancient Greek philosopher contemplating, olive tree.",1
+"A bustling lunar colony, pressurized domes, vehicles moving.",0
+"A Roman market street, vendors selling goods, busy crowd.",1
+"A smart city with self-regulating traffic and public transport.",0
+"A medieval siege camp outside a castle, tents, weapons.",1
+"A transparent, flexible display showing augmented reality info.",0
+"A Victorian-era garden party, ladies with parasols, gentlemen.",1
+"A personal AI health monitor tracking vitals and predicting illnesses.",0
+"An Egyptian tomb entrance, hieroglyphs, desert landscape.",1
+"A bioluminescent ocean floor, glowing fish, soft currents.",0
+"A Renaissance fresco depicting a religious scene.",1
+"A digital art piece depicting algorithmic growth and patterns.",0
+"A samurai warrior drawing his katana, intense gaze.",1
+"A cybernetic creature thriving in a harsh alien environment.",0
+"A 1920s jazz band playing on a small stage.",1
+"A clean energy solution using tidal forces from the ocean.",0
+"A prehistoric settlement in a forest clearing, smoke rising.",1
+"A virtual reality simulation of a historical event.",0
+"A Viking longship approaching a distant shore, mist.",1
+"A genetically engineered plant that thrives in saltwater.",0
+"A Wild West saloon interior, dusty, patrons at the bar.",1
+"A space station interior, crew members, control panels.",0
+"An Aztec priest leading a ceremony, smoke, chanting.",1
+"A holographic interface for controlling drones.",0
+"A colonial-era schoolhouse, children writing on slates.",1
+"A self-maintaining urban park with robotic gardeners.",0
+"A 1950s family watching television in their living room.",1
+"A drone swarm monitoring wildlife in a national park.",0
+"A Baroque period dance in a grand ballroom, elegant attire.",1
+"A nanobot system cleaning arterial plaque in real-time.",0
+"An ancient Celtic cross on a rugged coastline, waves crashing.",1
+"A high-speed train traveling through a futuristic tunnel system.",0
+"A 1980s video store, VHS tapes on shelves, neon sign.",1
+"An AI-powered urban planning system optimizing city layout.",0
+"A Gothic abbey ruins, overgrown with ivy, misty atmosphere.",1
+"A zero-emissions power plant generating clean energy from fusion.",0
+"A traditional Chinese temple, intricate roofs, red pillars.",1
+"A self-sufficient community living in an abandoned mine.",0
+"A pioneer forging a trail through untouched wilderness.",1
+"A global network of interconnected smart homes controlling energy.",0
+"A Byzantine emperor's palace interior, mosaics, gold.",1
+"A personal flying suit for short-distance travel.",0
+"A 1960s concert, psychedelic lighting, rock band.",1
+"A robotic personal trainer guiding fitness routines.",0
+"An Indian street vendor selling colorful spices.",1
+"A futuristic city embedded within a massive, ancient tree.",0
+"A World War I soldier writing a letter home in a trench.",1
+"A sustainable agriculture system using aeroponics and hydroponics.",0
+"A Geisha performing a fan dance, graceful movements.",1
+"A self-healing road material that repairs cracks and potholes.",0
+"An abandoned Roman road, ancient trees growing through cracks.",1
+"A quantum computer simulating the growth of galaxies.",0
+"A vintage car show, shining chrome, polished paint.",1
+"A bioluminescent city park with pathways made of glowing moss.",0
+"An ancient Mayan temple under a full moon, ceremonial fire.",1
+"A neural interface allowing direct control of smart devices.",0
+"A retro-futuristic car, fins, chrome, vibrant paint.",1
+"A global shared resource management system optimized by AI.",0
+"A 1970s living room, patterned wallpaper, vintage television.",1
+"A transparent smart display on a window showing weather info.",0
+"A Viking settlement on a fjord, wooden houses, longboats.",1
+"A genetically engineered glowing pet cat.",0
+"An Elizabethan era play in an open-air theater, cheering crowd.",1
+"A smart dust network monitoring air quality and pollutants.",0
+"A classical Roman bust, marble, stoic expression.",1
+"A seamless augmented reality overlay showing product information.",0
+"A 1930s train station, art deco architecture, departing trains.",1
+"A 3D-printed bridge being constructed by autonomous robots.",0
+"A Persian miniature painting of a royal garden.",1
+"A deep-sea hydrothermal vent ecosystem, bizarre tube worms.",0
+"A Rococo period dress, intricate lace and silk, soft light.",1
+"A benevolent AI overseeing urban planning and resource allocation.",0
+"A colonial-era fort under siege, cannon smoke, soldiers firing.",1
+"A modular, reconfigurable home adapting to family size.",0
+"An ancient Egyptian boat sailing on the Nile, reeds, sunset.",1
+"A drone delivering packages to high-rise apartments.",0
+"A medieval marketplace, merchants hawking their wares.",1
+"A quantum internet allowing instant, secure communication.",0
+"A 1940s propaganda poster, bold colors, inspiring message.",1
+"A self-sustaining floating farm producing food year-round.",0
+"An ancient Chinese dragon dance, colorful costumes, lively crowd.",1
+"A holographic pet interacting with physical objects.",0
+"A prehistoric hunter in a snowy landscape, tracking prey.",1
+"A smart fabric that generates electricity from movement.",0
+"A 1960s counterculture commune, communal living, free spirit.",1
+"A robot teacher engaging students in interactive lessons.",0
+"A Roman villa interior, frescoes on walls, atrium garden.",1
+"A hyper-efficient energy system powering entire cities.",0
+"An ancient Norse runic inscription on a stone tablet.",1
+"A self-cleaning building facade reacting to pollutants.",0
+"A traditional Japanese garden bridge over a koi pond.",1
+"A genetically modified glow-in-the-dark pet.",0
+"A 1920s car parked by a lighthouse, foggy night.",1
+"A global network of decentralized autonomous organizations.",0
+"A serene ancient Greek library, scrolls on shelves.",1
+"A bustling orbital city, transparent domes, spaceships docked.",0
+"A Roman soldier standing guard at a remote outpost.",1
+"A smart city with automated waste collection and recycling.",0
+"A medieval castle interior, grand hall, flickering fire.",1
+"A transparent, flexible display showing real-time traffic data.",0
+"A Victorian-era street lamp illuminating a foggy alley.",1
+"A personal AI financial advisor managing investments.",0
+"An Egyptian hieroglyph carved into stone, sun shining.",1
+"A bioluminescent forest at twilight, creatures glowing softly.",0
+"A Renaissance fair, people in period costumes, lively music.",1
+"A digital art piece depicting a futuristic circuit board.",0
+"A samurai drawing a bow, arrow nocked, focused gaze.",1
+"A cybernetic creature adapting to extreme environments.",0
+"A 1920s vintage microphone on a stand, cabaret singer.",1
+"A clean energy solution using wave power from the ocean.",0
+"A prehistoric hunter in a dense forest, tracking deer.",1
+"A virtual reality concert with interactive visual effects.",0
+"A Viking longship sailing on a calm, moonlit sea.",1
+"A genetically engineered plant that produces protein.",0
+"A Wild West cowboy on a bucking bronco, rodeo.",1
+"A space station observatory, large telescope, stars.",0
+"An Aztec sacrificial altar, smoke rising, ancient rituals.",1
+"A holographic projection of a human anatomy model.",0
+"A colonial-era church interior, wooden pews, stained glass.",1
+"A self-driving public transport system, no human driver.",0
+"A 1950s jukebox, vibrant lights, music playing.",1
+"A drone delivery system for construction materials.",0
+"A Baroque period ceiling fresco, cherubs, clouds.",1
+"A nanobot swarm cleaning up industrial pollution.",0
+"An ancient Celtic knot design, intricate patterns.",1
+"A high-speed train traveling through a mountainous landscape.",0
+"A 1980s VHS tape, grainy footage, retro aesthetic.",1
+"An AI-powered artistic assistant generating musical compositions.",0
+"A Gothic architectural detail, intricate carving, stone.",1
+"A zero-emissions factory producing sustainable fashion.",0
+"A traditional Chinese painting of a serene village.",1
+"A self-sufficient community living in a desert oasis.",0
+"A pioneer family gathering at a well, water bucket.",1
+"A global network of climate-controlled biodomes.",0
+"A Byzantine emperor's palace gardens, fountains, pathways.",1
+"A personal flying drone, small, agile, camera.",0
+"A 1960s protest march, signs, banners, determined faces.",1
+"A robotic security guard patrolling a building.",0
+"An Indian temple dancer, colorful attire, expressive.",1
+"A futuristic city built into a mountain, glowing entrances.",0
+"A World War I trench, barbed wire, muddy ground.",1
+"A sustainable energy solution using hydrogen fuel cells.",0
+"A Geisha applying her traditional white makeup.",1
+"A self-repairing road network adapting to traffic flow.",0
+"An abandoned ancient Roman amphitheater, ruins.",1
+"A quantum computer simulating complex financial markets.",0
+"A vintage camera on a tripod, old photographic studio.",1
+"A bioluminescent deep-sea exploration vehicle, glowing exterior.",0
+"An ancient Mayan carving on a stone stele, jungle.",1
+"A neural interface allowing direct control of a smart home.",0
+"A retro-futuristic flying saucer, classic sci-fi design.",1
+"A global shared knowledge base updated in real-time.",0
+"A 1970s living room, retro furniture, psychedelic poster.",1
+"A transparent smart screen displaying digital artwork.",0
+"A Viking drinking horn, carved with runes.",1
+"A genetically engineered plant that grows unique flowers.",0
+"An Elizabethan playwright writing at his desk.",1
+"A smart dust network monitoring agricultural fields.",0
+"A classical Roman mosaic depicting a banquet scene.",1
+"A seamless augmented reality overlay for travel guides.",0
+"A 1930s steam train, black smoke, speeding along tracks.",1
+"A 3D-printed bionic hand with natural dexterity.",0
+"A Persian carpet vendor in a bustling bazaar.",1
+"A deep-sea submersible exploring a dark, mysterious abyss.",0
+"A Rococo noblewoman at a piano, delicate melodies.",1
+"A benevolent AI managing global peace initiatives.",0
+"A colonial-era ship's cabin, wooden, cramped, map.",1
+"A modular, reconfigurable drone for mapping terrain.",0
+"An ancient Egyptian cat statue, revered, serene.",1
+"A drone delivering medicine to a home.",0
+"A medieval knight's shield, emblazoned with a crest.",1
+"A quantum secure communication for critical infrastructure.",0
+"A 1940s newspaper headline, big bold font, wartime news.",1
+"A self-sustaining floating community for climate refugees.",0
+"An ancient Chinese calligrapher at work, brush, ink.",1
+"A holographic pet mimicking a real animal's behavior.",0
+"A prehistoric tool, flint axe head, simple design.",1
+"A smart fabric that monitors heart rate and blood pressure.",0
+"A 1960s civil rights protest, signs, marchers.",1
+"A robot assistant helping in a surgical operation.",0
+"A Roman soldier's helmet, detailed, worn.",1
+"A hyper-efficient energy storage system using supercapacitors.",0
+"An ancient Norse longhouse interior, central fire.",1
+"A self-filtering air purification device for homes.",0
+"A traditional Japanese stone lantern in a garden.",1
+"A genetically modified pet that provides therapeutic benefits.",0
+"A 1920s car driving on a dirt road.,1
+"A global network of decentralized virtual organizations.",0
+"A medieval crossbowman aiming from castle walls.",1
+"A quiet, emission-free electric motorcycle.",0
+"A Renaissance portrait of an astronomer, telescope, stars.",1
+"A neuro-prosthetic eye with enhanced night vision.",0

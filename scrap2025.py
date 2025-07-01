@@ -71,3 +71,8 @@ def get_prompts(prompt="", quant=0, out: AllowedOut = "array"):
     with open(f"{QUERY}.txt", "w") as f:
       f.write(json.dumps(prompt_array, indent=2))
     return ["file+array", prompt_array]
+
+
+
+if __name__ == "__main__":
+  get_prompts(out="file+array")
